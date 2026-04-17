@@ -15,10 +15,10 @@ This project highlights:
 ## Dashboard Preview
 
 ### Screenshot 1
-![Sales Profit Dashboard Screenshot 1](./Sales_Profit_Dashboard_1.jpg)
+![Sales Profit Dashboard Screenshot 1](./Sales_profit_dashboard_1.JPG)
 
 ### Screenshot 2
-![Sales Profit Dashboard Screenshot 2](./Sales_Profit_Dashboard_2.jpg)
+![Sales Profit Dashboard Screenshot 2](./Sales_profit_dashboard_2.JPG)
 
 ## Demo Video
 
