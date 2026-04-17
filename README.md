@@ -65,20 +65,16 @@ The repository includes the dataset used to build the dashboard:
 
 - `Sales_Profit_Dashboard_dataset.xlsx`
 
-> If your dataset file has a different extension or name, update it here.
-
 ## Project File
 
 The repository also includes the main Excel dashboard project file:
 
 - `Sales_Profit_Dashboard_project.xlsx`
 
-> If your project file is saved as `.xlsm`, `.xlsb`, or another format, update the file name here.
-
 ## Repository Structure
 
 ```bash
-sales-profit-dashboard/
+sales-profit-dashboard-analytics/
 │
 ├── README.md
 ├── Sales_Profit_Dashboard_project.xlsx
@@ -92,5 +88,3 @@ Dashboard Project File: Excel workbook containing the completed dashboard
 Dataset File: Raw/cleaned data used for analysis
 Screenshots: Dashboard preview images
 Demo Video: Walkthrough of the dashboard
-
-
