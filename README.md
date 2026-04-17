@@ -24,7 +24,7 @@ This project highlights:
 
 Click the image below to watch the dashboard demo:
 
-[![Watch the Sales & Profit Dashboard Demo](./sales-profit-dashboard_2.JPG)](./Sales_Profit_Dashboard.mp4)
+[![Watch the Sales & Profit Dashboard Demo](./sales-profit-dashboard_1.JPG)](./Sales_Profit_Dashboard.mp4)
 
 **Direct video link:** [Sales_Profit_Dashboard.mp4](./Sales_Profit_Dashboard.mp4)
 
@@ -80,8 +80,8 @@ sales-profit-dashboard-analytics/
 ├── Sales_Profit_Dashboard_project.xlsx
 ├── Sales_Profit_Dashboard_dataset.xlsx
 ├── Sales_Profit_Dashboard.mp4
-├── Sales_Profit_Dashboard_1.png
-└── Sales_Profit_Dashboard_2.png
+├── sales-profit-dashboard_1.JPG
+└── sales-profit-dashboard_2.JPG
 
 Files Included
 Dashboard Project File: Excel workbook containing the completed dashboard
