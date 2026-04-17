@@ -15,16 +15,16 @@ This project highlights:
 ## Dashboard Preview
 
 ### Screenshot 1
-![Sales Profit Dashboard Screenshot 1](./Sales-profit-dashboard-1.JPG)
+![Sales Profit Dashboard Screenshot 1](./sales-profit-dashboard_1.JPG)
 
 ### Screenshot 2
-![Sales Profit Dashboard Screenshot 2](./Sales-profit-dashboard-2.JPG)
+![Sales Profit Dashboard Screenshot 2](./sales-profit-dashboard_2.JPG)
 
 ## Demo Video
 
 Click the image below to watch the dashboard demo:
 
-[![Watch the Sales & Profit Dashboard Demo](./Sales_Profit_Dashboard_1.png)](./Sales_Profit_Dashboard.mp4)
+[![Watch the Sales & Profit Dashboard Demo](./sales-profit-dashboard_2.JPG)](./Sales_Profit_Dashboard.mp4)
 
 **Direct video link:** [Sales_Profit_Dashboard.mp4](./Sales_Profit_Dashboard.mp4)
 
